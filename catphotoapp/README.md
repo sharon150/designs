@@ -1,0 +1,1 @@
+This is a simple design illustrating the use of common HTML tags
